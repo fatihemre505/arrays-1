@@ -34,7 +34,6 @@
                     
                     echo "<hr>";
 
-
                     $cars = array(
 
                         array("skoda",2,21,10,2000),
