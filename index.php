@@ -14,7 +14,7 @@
 <body>
     <div class="container mt-3">
         <div class="row">
-            <div class="col">
+            <div class="col-md-6 mx-auto">
                 <div class="card bg-light">
                     <div class="card-header">
                         <h1 class=text-center>Array</h1>
